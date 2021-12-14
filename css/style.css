@@ -11,6 +11,7 @@ body {
   background-repeat: no-repeat;
   background-position: top left, bottom right;
   font-family: 'Spartan', sans-serif;
+  font-size: .9375rem;
 }
 
 main {
@@ -132,7 +133,7 @@ section {
   color: hsl(228, 45%, 44%);
 }
 
-/* Mayor a 375 px */
+/* Mobile: 375px */
 @media only screen and (min-width: 376px) {
   
   body {
@@ -166,7 +167,7 @@ section {
   }
 }
 
-/* Mayor a 768px */
+/* Medium: 768px */
 @media only screen and (min-width: 769px){
   .review {
     flex-direction: row;
@@ -197,7 +198,7 @@ section {
   }
 }
 
-/* Mayor a 992 */
+/* Large: 992px */
 @media only screen and (min-width: 993px) {
   
   main {
@@ -223,7 +224,7 @@ section {
   }
 }
 
-/* Mayor a 1200px */
+/* Extra Large: 1160px */
 @media only screen and (min-width: 1161px) {
   body{
     background-size: 36.25rem;
@@ -246,7 +247,7 @@ section {
   }
 }
 
-/* Mayor a 1400 px */
+/* Desktop: 1440px */
 @media only screen and (min-width: 1441px){
 
   header {
