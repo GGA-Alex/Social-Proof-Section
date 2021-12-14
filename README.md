@@ -80,7 +80,6 @@ Users should be able to:
 
 - [Grid in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - This article helped me to understand the grid in CSS.
 - [@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media) - This article helped me to understand media queries in CSS.
-- []
 
 ## Author
 
