@@ -5,6 +5,9 @@
 The designs were created to the following widths:
 
 - Mobile: 375px
+- Medium: 768px
+- Large: 992px
+- Extra Large: 1160px
 - Desktop: 1440px
 
 ## Colors
